@@ -7,8 +7,8 @@
 - Estudante de Análise e Desenvolvimento de Sistemas (IFTO) 2º P
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-czr&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-czr&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-czr&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-czr&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
