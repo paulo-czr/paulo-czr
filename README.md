@@ -8,7 +8,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-czr&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-czr&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=Compact-layout)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
