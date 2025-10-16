@@ -2,7 +2,7 @@
 
 - Back-End Developer em Formação
 
-- Java, HTML, CSS, JavaScrips | Mys SQL
+- Java, HTML, CSS, JavaScrips | MySQL
 
 - Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal do Tocantins - IFTO (2º Período)
 
