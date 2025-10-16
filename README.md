@@ -2,10 +2,9 @@
 
 - Back-End Developer em Formação
 
-- Java & Mys SQL
+- Java, HTML, CSS, JavaScrips | Mys SQL
 
-- Estudante de Análise e Desenvolvimento de Sistemas  
-Em: Instituto Federal do Tocantins - IFTO (2º Período)
+- Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal do Tocantins - IFTO (2º Período)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-czr&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-czr&hide_progress=true)
