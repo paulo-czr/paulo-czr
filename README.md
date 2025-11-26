@@ -2,12 +2,12 @@
 
 - Back-End Developer em Formação
 
-- Java, HTML, CSS, JavaScrips | MySQL
+- Java, HTML, CSS | MySQL
 
 - Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal do Tocantins - IFTO (2º Período)
 
-![Paulo Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-czr)]  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-czr&langs_count=8)  
+![Paulo Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-czr)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-czr&langs_count=8)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
