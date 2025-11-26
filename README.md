@@ -6,7 +6,7 @@
 
 - Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal do Tocantins - IFTO (2º Período)
 
-![Paulo Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-czr)
+![Paulo Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-czr) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-czr&langs_count=8)
 
 <div style="display: inline_block"><br>
@@ -14,7 +14,6 @@
   <img align="center" alt="Paulo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 </div>
 
