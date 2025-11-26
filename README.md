@@ -6,7 +6,7 @@
 
 - Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal do Tocantins - IFTO (2º Período)
 
-![Paulo Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-czr) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-czr)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-czr&langs_count=8)
 
 <div style="display: inline_block"><br>
