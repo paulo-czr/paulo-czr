@@ -2,7 +2,7 @@
 
 - Back-End Developer em Formação
 
-- Java, SpringBoot, HTML, CSS | MySQL
+- Java, SpringBoot, Desenvolvimento Web | SQL
 
 - Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal do Tocantins - IFTO
 
