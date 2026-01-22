@@ -4,7 +4,7 @@
 
 - Java, SpringBoot, HTML, CSS | MySQL
 
-- Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal do Tocantins - IFTO (2º Período)
+- Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal do Tocantins - IFTO
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
