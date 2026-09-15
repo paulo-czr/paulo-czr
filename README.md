@@ -23,9 +23,10 @@ Atualmente, trabalho com o ecossistema Java, utilizando Spring Boot, e também p
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,mysql,postgres,git" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,cs,dotnet,mysql,postgres" alt="Minhas Tecnologias" />
   </a>
 </p>
+
 
 ---
 
