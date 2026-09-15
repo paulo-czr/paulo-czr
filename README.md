@@ -1,27 +1,34 @@
-## Olá! Eu sou o Paulo.
+<div align="center">
+  <h1>Olá! Eu sou o Paulo Cesar 👋</h1>
+  <p><strong>Desenvolvedor Back-End | Estudante de Análise e Desenvolvimento de Sistemas (IFTO)</strong></p>
 
-- Back-End Developer em Formação
-
-- Java, SpringBoot, Desenvolvimento Web | SQL
-
-- Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal do Tocantins - IFTO
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Paulo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Paulo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Paulo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-
+  <a href="https://www.linkedin.com/in/paulo-cesar-012747301" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:PauloCesarCoder@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/paulo.czr__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
-##
+<br />
 
-<div> 
-  
-  <a href="https://www.instagram.com/paulo.czr__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-cesar-012747301" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:PauloCesarCoder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+## Sobre mim
+
+Estudante de Análise e Desenvolvimento de Sistemas (IFTO), com foco em Backend e experiência prática no desenvolvimento de sistemas e APIs.
+
+Atualmente, trabalho com o ecossistema Java, utilizando Spring Boot, e também possuo experiência com C# e .NET, incluindo desenvolvimento de um sistema de Ordem de Serviço (OS) para uso interno. Tenho experiência com JavaScript, Node.js, APIs REST, SQL e NoSQL.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,mysql,postgres,git" alt="Minhas Tecnologias" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <sub>Foco em código limpo e aprendizado contínuo.</sub>
 </div>
