@@ -23,7 +23,7 @@ Atualmente, trabalho com o ecossistema TypeScript, utilizando Nestjs, e também 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js,nestjs,nodejs,postgres,mysql" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=typescript,js,react,nestjs,nodejs,postgres,mysql" alt="Minhas Tecnologias" />
   </a>
 </p>
 
