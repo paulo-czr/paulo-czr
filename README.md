@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou o Paulo Cesar 👋</h1>
-  <p><strong>Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas (IFTO)</strong></p>
+  <p><strong>Desenvolvedor Full Stack | React • TypeScript • NestJS</strong></p>
 
   <a href="https://www.linkedin.com/in/paulo-cesar-012747301" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,9 +17,11 @@
 
 ## Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (IFTO), com foco em Backend e experiência prática no desenvolvimento de sistemas e APIs.
+Desenvolvedor Full Stack focado em criar sistemas robustos, manuteníveis e agradáveis de usar.
 
-Atualmente, trabalho com o ecossistema TypeScript, utilizando Nestjs, e também possuo experiência com C# e .NET, incluindo desenvolvimento de um sistema de Ordem de Serviço (OS) para uso interno. Tenho experiência com JavaScript, Node.js, APIs REST, SQL e NoSQL.
+No dia a dia, trabalho com **React** e **TypeScript** no frontend, e **NestJS** no backend, aplicando padrões de projeto (SDD) para organizar bem o código e as regras de negócio. Além disso, conto com lógica de programação sólida e experiência com bancos de dados **SQL** e **NoSQL**.
+
+Arquitetura limpa, código bem estruturado, documentação e, acima de tudo, trabalhar em equipe são as coisas que eu mais prezo.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,9 +29,8 @@ Atualmente, trabalho com o ecossistema TypeScript, utilizando Nestjs, e também 
   </a>
 </p>
 
-
 ---
 
 <div align="center">
-  <sub>Foco em código limpo e aprendizado contínuo.</sub>
+  <sub>"Bons programadores escrevem código que humanos entendam.” — Martin Fowler</sub>
 </div>
